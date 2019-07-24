@@ -1,3 +1,2 @@
 # TetrisGame
-Tetris game
-Game is Built in Java Language
+Tetris game is Built in Java Language
